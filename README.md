@@ -43,3 +43,23 @@ d) the answer is written in a handwriting font of your choosing from https://fon
 <h1>Where in the world is Rich</h1>
 <p>Rich was here</p>
 ```
+
+![q3 sample output](readmeimages/q3.png)
+
+4. List a total of 5 pros and cons of png related to jpg images. Use a <main> tag to enclose the 2 lists with appropriate level 
+headings for a screen reader as though the whole document is on this subject. For example:
+
+![q4 sample output](readmeimages/q4.png)
+
+5. The snippet of html in q5.html produces different images for portrait and landscape orientations.
+Make the image accessible on mobile by:
+
+a) adding a tag to make it scale 1 to 1
+
+b) making the image fit within the viewport no matter what the width of the device
+
+c) providing text for a screen reader to read when it encounters the image
+
+d) providing an element that displays in the browser bar that a screen reader can also read to identify the tab of the browser
+
+e) fix an issue with the provided headings that are problematic for screen readers
