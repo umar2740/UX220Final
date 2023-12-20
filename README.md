@@ -63,3 +63,7 @@ c) providing text for a screen reader to read when it encounters the image
 d) providing an element that displays in the browser bar that a screen reader can also read to identify the tab of the browser
 
 e) fix an issue with the provided headings that are problematic for screen readers
+
+![mobile in simulator](readmeimages/q5a.png)
+
+![desktop view](readmeimages/q5b.png)
