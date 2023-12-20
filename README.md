@@ -26,3 +26,20 @@ c) the answer has twice the normal height
 d) the answer is written in a handwriting font of your choosing from https://fonts.google.com
 
 ![q2 sample output](readmeimages/q2.png)
+
+3. Put the following code in to a complete html page with a:
+
+1) doctype declaration
+
+2) an opening and closing tag that specifies the language of the document
+
+3) a portion of the document that describes information about the document including the way that the viewport is scaled for mobile
+
+4) a portion of the document that contains the content
+
+5) add an html 5 semantic tag at the end of the document that includes a copyright notice with the year supplied by a custom element.
+
+```
+<h1>Where in the world is Rich</h1>
+<p>Rich was here</p>
+```

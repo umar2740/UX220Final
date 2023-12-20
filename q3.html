@@ -1,0 +1,13 @@
+<h1>Where in the world is Rich</h1>
+<p>Rich was here</p>
+<footer>
+    &copy; Rich Hildred <x-year />
+</footer>
+<script>
+    class CopyRight extends HTMLElement{
+        connectedCallback(){
+            this.innerHTML = new Date().getFullYear();
+        }
+    }
+    customElements.define("x-year", CopyRight);
+</script>
